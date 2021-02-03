@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello");
     //There is a new line added to practice Commit action
+        System.out.println("It is nice to lear something new");
     }
 }
