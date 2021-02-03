@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello");
     //There is a new line added to practice Commit action
         System.out.println("It is nice to lear something new");
-    //we need to practice more to write tast cases
+    //we need to practice more to write test cases
     }
 }
