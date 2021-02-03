@@ -6,5 +6,6 @@ public class CrazyJoke {
         System.out.println("Hi Everyone");
         //it is needed to be able to work with the team remotely
         System.out.println("I am happy to learn something new");
+        //i need to focus on practicing
     }
 }
